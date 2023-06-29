@@ -1,4 +1,4 @@
-# Case Study
+# **Case Study**
 + create table book_table(book_id int,title varchar(20),author varchar(20),publisher varchar(20),publication_year date,isbn int,genre varchar(10),availability boolean,primary key(book_id));
 
 + select * from book_table;
